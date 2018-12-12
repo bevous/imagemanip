@@ -1,0 +1,10 @@
+C:\Users\Lewis\source\repos\image magic\image magic\bin\Debug\image magic.exe.config
+C:\Users\Lewis\source\repos\image magic\image magic\bin\Debug\image magic.exe
+C:\Users\Lewis\source\repos\image magic\image magic\bin\Debug\image magic.pdb
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image magic.csprojAssemblyReference.cache
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image_magic.Form1.resources
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image_magic.Properties.Resources.resources
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image magic.csproj.GenerateResource.cache
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image magic.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image magic.exe
+C:\Users\Lewis\source\repos\image magic\image magic\obj\Debug\image magic.pdb

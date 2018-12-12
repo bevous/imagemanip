@@ -1,0 +1,22 @@
+ //sort the pixels by red
+            for (int l = 0; l < PixelCount; l++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    for(int y = 0; y < height; y++)
+                    {
+                        if (x + 1 < width && y + 1 < height)
+                        {
+                            Color pixelsC = ImagePix.GetPixel(x, y);
+                            Color pixelsC2 = ImagePix.GetPixel((x + 1), (y + 1));
+                            if (pixelsC.R > pixelsC2.R)
+                            {
+                                //Console.WriteLine("moving");
+                                ImagePix.SetPixel(x, y, pixelsC2);
+                                ImagePix.SetPixel(x + 1, y + 1, pixelsC);
+                            }
+                        }
+                    }
+                }
+                Console.WriteLine(l);
+            }
